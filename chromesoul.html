@@ -6,40 +6,15 @@
     <link rel="stylesheet" type="text/css" media="all" href="chromesoul.css">
   </head>
   <body>
-    <p id="user-status" class="clickable">
-      <img src="img/status/me-disconnected.png" alt="disconnected" title="disconnected" id="user-status-img">
-    </p>
-
-    <div id="settings-btn" class="clickable"><img src="img/settings.png" alt="settings" title="settings"></div>
-
-    <div id="contact-lst-wrapper">
-      <input type="text" id="add-contact" placeholder="New contact">
-      <ul id="contact-lst"></ul>
-    </div>
-
-    <div id="main-ctn">
-      <div id="config-pannel">
-	<input type="text" placeholder="Login" id="login" class="opt" value=""><br>
-	<input type="password" placeholder="Password (SOCKS)" id="pwd_socks" class="opt" value=""><br>
-	<input type="checkbox" id="enable_notif" class="opt" checked="checked"><label for="enable_notif">Enable notifications</label><br>
-	<input type="checkbox" id="enable_msg" class="opt" checked="checked"><label for="enable_msg">Enable messages</label><br>
-	<button id="save">Save</button> <span id="status"></span>
-      </div>
-      <div id="chat-pannel">
-	<ul id="tab-lst"></ul>
-	<div id="tab-body-wrapper"></div>
-      </div>
-    </div>
-
+    <script type="text/javascript" src="third-party/jquery.min.js"></script>
+    <script type="text/javascript" src="third-party/underscore-min.js"></script>
+    <script type="text/javascript" src="third-party/backbone-min.js"></script>
     <script type="text/javascript" src="third-party/md5-min.js"></script>
+<!--
     <script type="text/javascript" src="lib/txt_socket.js"></script>
     <script type="text/javascript" src="lib/client.js"></script>
     <script type="text/javascript" src="lib/ns_client.js"></script>
-    <script type="text/javascript" src="lib/avatars.js"></script>
-    <script type="text/javascript" src="lib/options.js"></script>
-    <script type="text/javascript" src="lib/tab.nsui.js"></script>
-    <script type="text/javascript" src="lib/contacts.nsui.js"></script>
-    <script type="text/javascript" src="lib/nsui.js"></script>
+-->
     <script type="text/javascript" src="chromesoul.js"></script>
   </body>
 </html>

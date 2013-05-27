@@ -10,5 +10,8 @@
 
 ## Third-party libraries/tools/snippets
 
+* [jQuery](http://jquery.com/)
+* [Underscore.js](http://underscorejs.org/)
+* [Backbone.js](http://backbonejs.org/)
 * [JSHash (JavaScript MD5)](http://pajhome.org.uk/crypt/md5)
 * [String/ArrayBuffer conversion](http://updates.html5rocks.com/2012/06/How-to-convert-ArrayBuffer-to-and-from-String)

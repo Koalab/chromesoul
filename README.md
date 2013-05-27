@@ -62,6 +62,13 @@ You should use the version from the Chrome Web Store, however, if you really wis
 * Use the developer mode
 * Click on "Load unpackaged extension..." and select the chromesoul directory
 
+### Which version of the third-party softwares are you using?
+
+* jQuery: 2.0.1
+* Underscore.js: 1.4.4
+* Backbone.js: 1.0.0
+* JSHash: 2.2
+
 ### I found a bug, what should I do?
 Please [report it](https://github.com/TychoBrahe/chromesoul/issues) with as much details as you can. Thanks in advance.
 
@@ -76,4 +83,4 @@ I'm happy you like it :-)
 
 Chromesoul is released under an [ISC licence](http://en.wikipedia.org/wiki/ISC_license "ISC licence"). See the [LICENCE.txt](https://github.com/TychoBrahe/chromesoul/blob/master/LICENCE.txt) file for more details.
 
-Chromesoul uses third-party free softwares which belongs to their respective owners. Such softwares and its authors are listed in the [CREDITS.md](https://github.com/TychoBrahe/chromesoul/blob/master/CREDITS.md) file.
+Chromesoul uses third-party free softwares which belongs to their respective owners. Such softwares are listed in the [CREDITS.md](https://github.com/TychoBrahe/chromesoul/blob/master/CREDITS.md) file.
