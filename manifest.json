@@ -1,7 +1,7 @@
 {
     "name": "Chromesoul",
     "version": "1.0.0",
-    "minimum_chrome_version": "25",
+    "minimum_chrome_version": "27",
     "manifest_version": 2,
     "offline_enabled": false,
     "description": "Netsoul client for Google Chrome.",

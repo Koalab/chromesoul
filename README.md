@@ -15,7 +15,7 @@ When you're on the PIE, you're stuck in it unless you are connected to netsoul. 
 
 ## Requirements
 
-Chrome or Chromium 25.
+Chrome or Chromium 27.
 
 
 ## Features
