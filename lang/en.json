@@ -1,0 +1,15 @@
+{
+    "menu": {
+	"settings": "Settings"
+    },
+    "opts": {
+	"login": "Login",
+	"password": "SOCKS Password",
+	"enable_notif": "Enable notifications",
+	"enable_messages": "Enable messages",
+	"save": "Save"
+    },
+    "contacts": {
+	"new": "New contact"
+    }
+}
