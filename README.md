@@ -1,3 +1,8 @@
+## Disclaimer (important, read!)
+
+You are currently watching the **development version**, which isn't intended to work properly. You *should not* use it. Instead, you are advised to use the stable version on the master branch.
+
+
 ## What is chromesoul?
 
 Chromesoul is a NetSoul client for Google Chrome. If you don't know what NetSoul is, you probably don't need it. If you're neither a student nor an employee of any [IONIS](http://www.ionis-group.com/) school (eg: Epitech, Epita, …), all you have to know is that NetSoul is an internal messaging protocol for thoses schools.
