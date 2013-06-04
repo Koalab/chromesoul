@@ -11,6 +11,8 @@
 ## Third-party libraries/tools/snippets
 
 * [jQuery](http://jquery.com/)
+* [jQuery UI](http://jqueryui.com/)
+* [JSON-js](https://github.com/douglascrockford/JSON-js)
 * [Underscore.js](http://underscorejs.org/)
 * [Backbone.js](http://backbonejs.org/)
 * [JSHash (JavaScript MD5)](http://pajhome.org.uk/crypt/md5)

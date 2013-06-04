@@ -65,6 +65,7 @@ You should use the version from the Chrome Web Store, however, if you really wis
 ### Which version of the third-party softwares are you using?
 
 * jQuery: 2.0.1
+* jQuery UI: 1.10.3
 * Underscore.js: 1.4.4
 * Backbone.js: 1.0.0
 * JSHash: 2.2
