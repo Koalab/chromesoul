@@ -112,14 +112,17 @@ body {
     padding: 150px 215px 0 0;
     box-sizing: padding-box;
     height: calc(100% - 150px);
+    display : flex;
+    display : -webkit-flex;
+    flex-direction: column;
+    -webkit-flex-direction: column;
 }
 
 #chat-pannel {
-    margin: 10px;
+    margin: 0 10px 10px 10px;
     padding: 10px;
-    background-color: #347db0;
-    height: calc(100% - 230px);
-
+    flex: 1;
+    -webkit-flex: 1;
     background-color: #e4e4e4;
 }
 
